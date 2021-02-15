@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033335521721",
+    "project_id": "voicecommander-14515",
+    "storage_bucket": "voicecommander-14515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033335521721:android:8828d44575b073ba1b7668",
+        "android_client_info": {
+          "package_name": "com.example.voicecommander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033335521721-fs36mk5ivk0c7crtd7b35lvvvohvb3am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LW9sEg3DxkLS20sG7B_bVphGXU4xl2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033335521721-fs36mk5ivk0c7crtd7b35lvvvohvb3am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
